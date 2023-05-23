@@ -6,4 +6,4 @@ We also use GitHub to host data and methodology for [our original reporting](htt
 
 Like our work? [Register for our newsletter](https://muckrock.com/newsletters/) and get free weekly updates. You can also [sign up for a MuckRock account](https://accounts.muckrock.com/selectplan/) and [file a public records request today](https://www.muckrock.com/foi/create/), or [you can make a tax deductible donation](https://www.muckrock.com/donate/).
 
-[Join us on Slack](https://github.com/MuckRock/news-team) to talk through any questions you have, or reach out to our open source fellow Sanjin via email at his his name at muckrock dot com.
+[Join us on Slack](https://github.com/MuckRock/news-team) to talk through any questions you have, or reach out to our open source fellow [Sanjin](https://github.com/duckduckgrayduck) via email (sanjin at muckrock dot com).
